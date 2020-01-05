@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     // calculate with some integers
     int a = 0;
     int b = 1;
